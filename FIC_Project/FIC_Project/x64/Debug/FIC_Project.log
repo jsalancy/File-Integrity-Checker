@@ -1,0 +1,6 @@
+﻿  directory.cpp
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\directory.cpp(29): warning C4700: uninitialized local variable 'i' used
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\directory.cpp(160): warning C4717: 'dir::directory::fetchBlock': recursive on all control paths, function will cause runtime stack overflow
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\directory.cpp(133): warning C4700: uninitialized local variable 'apb' used
+  FIC_Project.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2017\Projects\FIC_Project\x64\Debug\FIC_Project.exe
+  FIC_Project.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2017\Projects\FIC_Project\x64\Debug\FIC_Project.pdb (Partial PDB)

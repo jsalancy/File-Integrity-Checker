@@ -1,0 +1,8 @@
+﻿  directory.cpp
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\directory.cpp(34): warning C4552: '<<': operator has no effect; expected operator with side-effect
+  FIC_Project.cpp
+  Generating Code...
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\fic_project.cpp(310): warning C4700: uninitialized local variable 'count' used
+c:\users\justin\documents\visual studio 2017\projects\fic_project\fic_project\directory.cpp(33): warning C4700: uninitialized local variable 'i' used
+  FIC_Project.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2017\Projects\FIC_Project\Debug\FIC_Project.exe
+  FIC_Project.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2017\Projects\FIC_Project\Debug\FIC_Project.pdb (Partial PDB)
